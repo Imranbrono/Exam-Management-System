@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_event_info" value="name:seno;datatype:int,name:name;datatype:string,name:date;datatype:date,name:time;datatype:time,name:venue;datatype:string" />
+	<infoitem key="UD_invitees_view" value="name:seno;datatype:int,name:event_id;datatype:int,name:name;datatype:string,name:phone;datatype:string,name:invited;datatype:string,name:attended;datatype:string" />
+</info>

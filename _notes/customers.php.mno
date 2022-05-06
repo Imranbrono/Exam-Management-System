@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_customers_view" value="name:seno;datatype:int,name:curtomer_name;datatype:string,name:shop_name;datatype:string,name:address;datatype:blob,name:phone;datatype:int,name:user_assigned;datatype:int" />
+</info>

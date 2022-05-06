@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_event" value="name:seno;datatype:int,name:name;datatype:string,name:date;datatype:date,name:time;datatype:time,name:venue;datatype:string,name:status;datatype:string" />
+</info>

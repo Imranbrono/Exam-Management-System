@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_view_accounts" value="name:seno;datatype:int,name:account_name;datatype:string,name:account_no;datatype:string,name:description;datatype:blob" />
+</info>

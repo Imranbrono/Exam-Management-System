@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_view_events" value="name:seno;datatype:int,name:name;datatype:string,name:date;datatype:date,name:time;datatype:time,name:venue;datatype:string" />
+	<infoitem key="UD_invitees_count" value="name:seno;datatype:int,name:event_id;datatype:int,name:name;datatype:string,name:phone;datatype:string,name:received_user;datatype:int,name:arrival_time;datatype:time" />
+	<infoitem key="UD_invitees_count_in" value="name:seno;datatype:int,name:event_id;datatype:int,name:name;datatype:string,name:phone;datatype:string,name:received_user;datatype:int,name:arrival_time;datatype:time" />
+	<infoitem key="UD_load_account" value="name:seno;datatype:int,name:account_name;datatype:string,name:account_no;datatype:string,name:description;datatype:blob" />
+	<infoitem key="UD_load_paytype" value="name:seno;datatype:int,name:payment_for;datatype:string" />
+	<infoitem key="UD_load_students" value="name:seno;datatype:int,name:title;datatype:string,name:name;datatype:string,name:nic_no;datatype:string,name:phone;datatype:string,name:cpr_no;datatype:string" />
+	<infoitem key="UD_check_student" value="name:seno;datatype:int,name:title;datatype:string,name:name;datatype:string,name:nic_no;datatype:string,name:phone;datatype:string,name:cpr_no;datatype:string" />
+	<infoitem key="UD_last_payment" value="name:seno;datatype:int,name:date;datatype:date,name:student_id;datatype:int,name:account_id;datatype:int,name:payfor_id;datatype:int,name:user_id;datatype:int,name:amount;datatype:real,name:pay_type;datatype:string,name:cheque_no;datatype:string,name:cheque_date;datatype:date,name:cheque_bank;datatype:blob,name:status;datatype:int" />
+	<infoitem key="UD_get_students" value="name:seno;datatype:int,name:title;datatype:string,name:name;datatype:string,name:nic_no;datatype:string,name:phone;datatype:string,name:cpr_no;datatype:string" />
+</info>

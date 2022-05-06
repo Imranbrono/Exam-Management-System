@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_event_info" value="name:seno;datatype:int,name:name;datatype:string,name:date;datatype:date,name:time;datatype:time,name:venue;datatype:string,name:status;datatype:string" />
+	<infoitem key="UD_invitees_info" value="name:seno;datatype:int,name:event_id;datatype:int,name:name;datatype:string,name:phone;datatype:string,name:received_user;datatype:int,name:arrival_time;datatype:time" />
+	<infoitem key="UD_invitees_info_in" value="name:seno;datatype:int,name:event_id;datatype:int,name:name;datatype:string,name:phone;datatype:string,name:received_user;datatype:int,name:arrival_time;datatype:time" />
+	<infoitem key="UD_user_info_get" value="name:seno;datatype:int,name:name;datatype:string,name:type;datatype:string,name:username;datatype:string,name:password;datatype:string,name:assigned_event;datatype:int" />
+</info>

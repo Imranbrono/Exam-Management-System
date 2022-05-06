@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_product_stack" value="name:seno;datatype:int,name:product_master;datatype:int,name:unit_master;datatype:int,name:description;datatype:blob" />
+	<infoitem key="UD_get_product_master" value="name:seno;datatype:int,name:product_name;datatype:string,name:unit_type;datatype:string,name:description;datatype:blob" />
+	<infoitem key="UD_get_unit_master" value="name:seno;datatype:int,name:unit_type;datatype:string,name:unit_value;datatype:real,name:unit_label;datatype:string,name:si_standard;datatype:real,name:si_value;datatype:real" />
+</info>
